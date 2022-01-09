@@ -1,0 +1,37 @@
+<style>
+#sidebar
+{
+width:150px;
+height:400px;
+background-color: #3af93a;
+font-size: 15px ;
+
+
+}
+body{
+margin:0px;
+border:0px;
+}
+
+
+</style>
+<style>
+#header
+{
+    width:100%;
+    height: 120pxs;
+    background-color: #7efeef;
+    font-size: 20px;
+    text-align: center;
+      
+ }
+ #AdminLogo
+ {
+     background:white;
+     width:40px;
+     height:35px;
+  
+    
+ }
+ 
+</style>
